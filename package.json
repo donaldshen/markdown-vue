@@ -35,5 +35,5 @@
     "type": "git",
     "url": "https://github.com/donaldshen/markdown-vue.git"
   },
-  "icon": "./icon.png"
+  "icon": "icon.png"
 }
